@@ -5,11 +5,11 @@ This program recovers JPEGs from a forensic image. In card.raw file there is a f
 ## Usage
 
 For compiling
-```javascript
+```bash
 clang recover recover.c
 ```
 
 For using recover the files
-```javascript
+```bash
 ./recover [filename.raw]
 ```
